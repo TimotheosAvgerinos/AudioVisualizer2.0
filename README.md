@@ -25,6 +25,8 @@
 
 ## Timescope 2
 Πατώντας το δεύτερο κουμπί **TimeScope 2** οι άξονες απεικονίζουν τα ίδια όπως και το πρώτο γράφημα αλλά με άλλο τρόπο. 
+
+
 ![ΤTimescope 2](https://github.com/p15avge/AudioVisualizer2.0/blob/main/Screenshots/TimeScope%202%20plot.png)
 ![Timescope 2 low](https://github.com/p15avge/AudioVisualizer2.0/blob/main/Screenshots/TimeScope%202.png)
 
